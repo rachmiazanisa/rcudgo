@@ -1,5 +1,5 @@
 #Database Service
-Data API inspired by MongoDB
+MongoDB
 
 #Requirement
 - Go 1.9+
